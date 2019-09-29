@@ -1,0 +1,38 @@
+.form-group {
+    margin: auto;
+    margin-top: 25px;
+}
+
+.cart {
+    margin-left: 1150px;
+}
+
+hr {
+    border-color: red;
+}
+
+.nav-item {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.menu {
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 120px;
+}
+
+h3 {
+    color: orange;
+    margin-top: 20px;
+}
+
+img.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h4 {
+    text-align: center;
+}
